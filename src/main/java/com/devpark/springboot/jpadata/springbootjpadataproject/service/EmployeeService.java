@@ -1,6 +1,8 @@
-package com.devpark.springboot.cruddemo.service;
+package com.devpark.springboot.jpadata.springbootjpadataproject.service;
 
-import com.devpark.springboot.cruddemo.entity.Employee;
+
+
+import com.devpark.springboot.jpadata.springbootjpadataproject.entity.Employee;
 
 import java.util.List;
 

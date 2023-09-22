@@ -1,4 +1,4 @@
-package com.devpark.springboot.cruddemo.entity;
+package com.devpark.springboot.jpadata.springbootjpadataproject.entity;
 
 import jakarta.persistence.*;
 
